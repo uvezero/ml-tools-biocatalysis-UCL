@@ -1,6 +1,6 @@
 # ML Tools for Biocatalysis
 
-![ML Tools for Biocatalysis](./images/box-ligand-complex.png)
+![ML Tools for Biocatalysis](./images/box-ligand-comlpex-removebg-preview.png)
 
 ## Overview
 
